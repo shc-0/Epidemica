@@ -120,12 +120,7 @@
     color: black;
   
   }
- 
 
-  
-
-  
- 
   
   .member{
     text-align: center;
@@ -149,7 +144,7 @@
     background-position: center center;
   }
   .firstDiv{
-    background-image: url("https://img.freepik.com/free-vector/flat-hand-drawn-patient-taking-medical-examination_52683-57829.jpg?w=996&t=st=1689783058~exp=1689783658~hmac=cd32d38bf3bcda73ee30441424e8ec36f885346b9ee5b6bc977548be097ba9bc");
+    /* background-image: url("https://img.freepik.com/free-vector/flat-hand-drawn-patient-taking-medical-examination_52683-57829.jpg?w=996&t=st=1689783058~exp=1689783658~hmac=cd32d38bf3bcda73ee30441424e8ec36f885346b9ee5b6bc977548be097ba9bc"); */
   }
   .insert{
     background-image: url(../src/assets/image/insert-bg.jpg);
