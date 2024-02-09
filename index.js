@@ -19,7 +19,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 
-const uri = `mongodb+srv://ishashwat:${process.env.MONGO_PASS}@cluster0.vj3jjrr.mongodb.net/?retryWrites=true&w=majority`;
+const uri = `mongodb+srv://ishashwat:y63iDlz0SfW1Kizj@cluster0.vj3jjrr.mongodb.net/?retryWrites=true&w=majority`;
 
 try{
   await mongoose.connect(uri); 
