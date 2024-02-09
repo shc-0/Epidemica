@@ -2,7 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 import http from "http";
 import bcrypt from "bcrypt";
-import predict from "./Ananlysis/prediction.js";
+import predict from "./Analysis/prediction.js";
 
 // import {} from "../server/preProcess/fetchGatherData.js";
 // import router from "./api/routes.js";

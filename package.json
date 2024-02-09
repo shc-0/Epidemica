@@ -1,5 +1,5 @@
 {
-  "name": "guesswho",
+  "name": "epidemica-server",
   "version": "1.0.0",
   "description": "mern socket",
   "main": "index.js",
